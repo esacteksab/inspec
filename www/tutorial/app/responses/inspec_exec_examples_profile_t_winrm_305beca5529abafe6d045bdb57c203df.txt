@@ -1,7 +1,7 @@
 
 Profile: InSpec Example Profile (profile)
 Version: 1.0.0
-Target:  local://
+Target:  winrm://alice@windows.node:
 
 
 [32m  ✔  tmp-1.0: Create /tmp directory[0m
